@@ -4,6 +4,8 @@
 The following are files for the technical test for data science version A
 
 In order to run each file just run python or python3 and the name of the file.
+Some files require specific libraries (pandas, matplotlib, sklearn). In the installation there
+are instructions to perform the installation
 
 ## Installation
 ***
