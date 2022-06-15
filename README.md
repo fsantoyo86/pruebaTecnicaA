@@ -3,6 +3,8 @@
 
 The following are files for the technical test for data science version A
 
+In order to run each file just run python or python3 and the name of the file.
+
 ## Installation
 ***
 Instructions for installation. For each challenge perform the following corresponding to each folder, example
